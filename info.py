@@ -102,6 +102,6 @@ CAPTION_BUTTON_URL = "https://t.me/+WOrSTTigB7s5YjY1"
 
    # Auto Delete For Bot Sending Files #
 
-auth_channel = environ.get('AUTH_CHANNEL', '-1001740189478')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001934019843')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
